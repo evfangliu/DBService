@@ -1,0 +1,12 @@
+{
+  "name": "DBService",
+  "version": "1.0.0",
+  "description": "A sample C++ project packaged with vcpkg",
+  "homepage": "https://github.com/yourusername/myproject",
+  "dependencies": [
+    "fmt",
+    "catch2"
+  ],
+  "default-features": [],
+  "features": []
+}
