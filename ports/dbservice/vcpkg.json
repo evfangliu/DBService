@@ -6,7 +6,5 @@
   "dependencies": [
     "fmt",
     "catch2"
-  ],
-  "default-features": [],
-  "features": []
+  ]
 }
