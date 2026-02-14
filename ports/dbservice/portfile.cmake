@@ -5,7 +5,7 @@ vcpkg_from_github(
   OUT_SOURCE_PATH SOURCE_PATH
   REPO evfangliu/dbservice
   REF acd576790ce42ef43d1f4f348bf11ffff02ed59a
-  SHA512 7b2bb7acb2a8ff07bff59cfa27247a7b2cced03828919cd65cc0c8cf1f724f5f1e947ed6992dcdbc913fb470694a52613d1861eaaadbf8903e94eb9cdfe4d000
+  SHA512 9a3bb3480e74dad22a6a14f47271a3be31adf152801bbe97e9ef1f7c6bae239087ae49abe8805010cf6e0bbf1444d455564597d45387c5b696b6b86f20ddeb4a
   HEAD_REF master
 )
 
